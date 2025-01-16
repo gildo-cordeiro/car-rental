@@ -8,7 +8,7 @@
       "tipo": "Sedan",
       "quilometragem": 15000,
       "portas": 4,
-      "imagem": "https://via.placeholder.com/300x200"
+      "imagem": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/2024-Toyota-Corolla-Active-Sport-3s-1536x864-1.webp"
     },
     {
       "marca": "Honda",
@@ -18,7 +18,7 @@
       "tipo": "Sedan",
       "quilometragem": 20000,
       "portas": 4,
-      "imagem": "https://via.placeholder.com/300x200"
+      "imagem": "https://i0.statig.com.br/bancodeimagens/imgalta/5j/rp/mk/5jrpmk31iq4p8740xvd84cb7k.jpg"
     },
     {
       "marca": "Ford",
@@ -28,7 +28,7 @@
       "tipo": "SUV",
       "quilometragem": 30000,
       "portas": 4,
-      "imagem": "https://via.placeholder.com/300x200"
+      "imagem": "https://imgd.aeplcdn.com/664x374/cw/ec/40369/Ford-EcoSport-Right-Front-Three-Quarter-159249.jpg?wm=0&q=80"
     }
   ]
 }
